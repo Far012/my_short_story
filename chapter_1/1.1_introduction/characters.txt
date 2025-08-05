@@ -5,3 +5,4 @@ Charakter: Neugierig, kreativ
 Name: Ali
 Alter 26
 Charakter: ungeduldig, hat Angst vor Veränderungen
+Neuer TEXT BLABLA
